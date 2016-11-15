@@ -14,4 +14,8 @@ int main()
     cout << "This should hopefully work";
     
     cout << "Ummmmm hello????";
+
+	cout << "HELLO";
+	cout << "I think this is working now";
+	cout << "But I'm not sure";
 }
